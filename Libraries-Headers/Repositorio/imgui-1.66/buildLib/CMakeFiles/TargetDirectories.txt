@@ -1,0 +1,2 @@
+D:/Programacion/OpenGL/Libraries-Headers/imgui-1.66/buildLib/CMakeFiles/ALL_BUILD.dir
+D:/Programacion/OpenGL/Libraries-Headers/imgui-1.66/buildLib/CMakeFiles/ZERO_CHECK.dir

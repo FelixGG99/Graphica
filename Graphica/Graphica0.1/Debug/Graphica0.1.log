@@ -1,0 +1,46 @@
+﻿  glad.c
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  main.cpp
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(256): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(267): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(360): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(361): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(366): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(367): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(368): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(369): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(404): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(510): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(552): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(581): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(609): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(637): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(666): warning C4018: '<': signed/unsigned mismatch
+d:\programacion\graphica\graphica\graphica0.1\src\main.cpp(751): warning C4018: '<': signed/unsigned mismatch
+  Objetos.cpp
+d:\programacion\graphica\graphica\graphica0.1\src\objetos.cpp(263): warning C4018: '<': signed/unsigned mismatch
+d:\programacion\graphica\graphica\graphica0.1\src\objetos.cpp(288): warning C4018: '<': signed/unsigned mismatch
+d:\programacion\graphica\graphica\graphica0.1\src\objetos.cpp(315): warning C4018: '<': signed/unsigned mismatch
+d:\programacion\graphica\graphica\graphica0.1\src\objetos.cpp(343): warning C4018: '<': signed/unsigned mismatch
+d:\programacion\graphica\graphica\graphica0.1\src\objetos.cpp(362): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_tls.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'D:\Programacion\Graphica\Graphica\Debug\glfw.pdb'; linking object as if no debug info
+  Graphica0.1.vcxproj -> D:\Programacion\Graphica\Graphica\Debug\Graphica0.1.exe
