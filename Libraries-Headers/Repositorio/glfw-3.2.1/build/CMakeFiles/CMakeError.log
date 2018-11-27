@@ -1,0 +1,38 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: D:/Programacion/OpenGL/Libraries-Headers/glfw-3.2.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_7da60.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.8.169+g1ccb72aefa para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 13/11/2018 12:57:52 p. m..
+Proyecto "D:\Programacion\OpenGL\Libraries-Headers\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_7da60.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_7da60.dir\Debug\".
+  Creando directorio "D:\Programacion\OpenGL\Libraries-Headers\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_7da60.dir\Debug\cmTC_7da60.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_7da60.dir\Debug\cmTC_7da60.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7da60.dir\Debug\\" /Fd"cmTC_7da60.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "D:\Programacion\OpenGL\Libraries-Headers\glfw-3.2.1\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.15.26730 para x86
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7da60.dir\Debug\\" /Fd"cmTC_7da60.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "D:\Programacion\OpenGL\Libraries-Headers\glfw-3.2.1\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+d:\programacion\opengl\libraries-headers\glfw-3.2.1\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory [D:\Programacion\OpenGL\Libraries-Headers\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_7da60.vcxproj]
+Compilaci¢n del proyecto terminada "D:\Programacion\OpenGL\Libraries-Headers\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_7da60.vcxproj" (destinos predeterminados) -- ERROR.
+
+ERROR al compilar.
+
+"D:\Programacion\OpenGL\Libraries-Headers\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_7da60.vcxproj" (destino predeterminado) (1) ->
+(ClCompile destino) -> 
+  d:\programacion\opengl\libraries-headers\glfw-3.2.1\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory [D:\Programacion\OpenGL\Libraries-Headers\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_7da60.vcxproj]
+
+    0 Advertencia(s)
+    1 Errores
+
+Tiempo transcurrido 00:00:00.42
+
+

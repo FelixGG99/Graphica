@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/Compiler/MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake
+D:/Programacion/OpenGL/Libraries-Headers/imgui-1.66/CMakeLists.txt
+D:/Programacion/OpenGL/Libraries-Headers/imgui-1.66/buildLib/CMakeFiles/3.12.4/CMakeCCompiler.cmake
+D:/Programacion/OpenGL/Libraries-Headers/imgui-1.66/buildLib/CMakeFiles/3.12.4/CMakeCXXCompiler.cmake
+D:/Programacion/OpenGL/Libraries-Headers/imgui-1.66/buildLib/CMakeFiles/3.12.4/CMakeRCCompiler.cmake
+D:/Programacion/OpenGL/Libraries-Headers/imgui-1.66/buildLib/CMakeFiles/3.12.4/CMakeSystem.cmake
