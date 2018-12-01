@@ -1,5 +1,5 @@
 # Graphica
-## Repository for Graphica. Game engine? Graphing calculator? - who knows! The sky is the limit.
+## Repository for Graphica, the standalone, indie graphing calculator.
 ### Current version: v0.1-alpha
 
 ## TO-DO
